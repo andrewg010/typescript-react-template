@@ -54,7 +54,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "find-root": "^1.1.0",
-    "html-styled-react-parser": "git://github.com/andrewghx/html-styled-react-parser.git",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.0"
