@@ -8,8 +8,12 @@
     "build": "webpack --mode production",
     "test": "jest"
   },
-  "author": "Andrew Griffiths",
-  "license": "ISC",
+  "author": { 
+    "name" : "Andrew Griffiths",
+    "email" : "codeandrewg@gmail.com",
+    "url" : "https://www.griffithsa.co.uk"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
