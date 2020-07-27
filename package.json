@@ -43,7 +43,7 @@
     "jest-enzyme": "7.1.2",
     "jest-styled-components": "7.0.2",
     "nodemon": "2.0.3",
-    "react-hot-loader": "4.12.20",
+    "react-hot-loader": "4.12.21",
     "react-test-renderer": "16.13.1",
     "ts-jest": "25.5.1",
     "style-loader": "1.2.1",
